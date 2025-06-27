@@ -17,6 +17,6 @@ public class static_member
 {
 	public static void main (String args[])
 	{
-		System.out.println("Result : "+Mathematical.power(2,3));
+		System.out.println("Result : "+ Mathematical.power(2,3));
 	}
 }

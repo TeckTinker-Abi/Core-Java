@@ -3,7 +3,9 @@ import java.util.*;
 public class tOGGLE_cASE
 {
 	public static void main(String args[])
-	{
+	{   
+	   // Convert a Given String into a tOGGLE_cASE
+	   
 		Scanner sc = new Scanner(System.in);
 		
 		String input = sc.nextLine();

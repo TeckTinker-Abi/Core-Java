@@ -1,6 +1,7 @@
 public class String_Methods {
     public static void main(String[] args) {
         String s = "  Hello Java  ";
+		
 
         // LENGTH
         System.out.println(s.length()); 
@@ -86,11 +87,7 @@ public class String_Methods {
         // C
         // Method: split(delimiter) — Splits string into array
 
-        // TO CHAR ARRAY
-        char[] chars = "Hi".toCharArray();
-        for (char c : chars) System.out.print(c + " ");
-        // Output: H i
-        // Method: toCharArray() — Converts to character array
+        // TO CHAR ARRAYn
 
         // REPEAT (Java 11+)
         System.out.println("\nJava ".repeat(3));
